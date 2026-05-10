@@ -1,6 +1,0 @@
-{
-  "model": "yolov8n",
-  "confidence_threshold": 0.5,
-  "num_detections": 0,
-  "detections": []
-}
