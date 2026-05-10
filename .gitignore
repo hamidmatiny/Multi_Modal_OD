@@ -1,0 +1,29 @@
+# Virtual environments
+venv/
+env/
+ENV/
+nusc_env/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Pytest
+.pytest_cache/
+.coverage
+
+# Distribution
+build/
+dist/
+*.egg-info/
